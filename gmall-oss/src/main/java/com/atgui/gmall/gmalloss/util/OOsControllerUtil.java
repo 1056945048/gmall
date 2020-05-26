@@ -24,8 +24,8 @@ public class OOsControllerUtil {
     // endpoint
     private String endpoint = "oss-cn-beijing.aliyuncs.com";
     // accessKey
-    private String accessKeyId = "LTAI4FegXFEG8QyeZCcQFvXa";
-    private String accessKeySecret = "h2SRWxTMVSZ50UWAilg6Aj6pQMagwg";
+    private String accessKeyId = "LTAI4FegXFEeZCcQFvXa";
+    private String accessKeySecret = "h2SRWxTMVSZ50ilg6Aj6pQMagwg";
     // 空间
     private String bucketName = "xupt-shopping-server";
     // 文件存储目录
